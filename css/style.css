@@ -133,13 +133,13 @@ div#interface {
 
 #rodape {
 	position: relative;
-	bottom: -490px;
+	bottom: -1150px;
     
 	}
 
 footer#rodape {
     clear: both;
-    border-top: 1px solid #f7f3f3;
+    border-top: 2px solid #f7f3f3;
 }
 
 
