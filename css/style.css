@@ -66,12 +66,12 @@ header#cabecalho p {
 .texto1 {
     display: table-cell;
     float: left;
-    height: 20px;
-    width: 190px;
+    height: 100px;
+    width: 250px;
     margin-top: -78px;
     background-color:#ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 8px;
+    font-size: 20px;
     color: rgb(5, 5, 7);
     
 }
