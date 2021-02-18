@@ -94,6 +94,16 @@ header#cabecalho p {
     
 }
 
+
+.texto4 {
+    font-family: 'Rock Salt', cursive;
+    color: rgb(250, 252, 252);
+    font-size: 60px;
+    padding: 0px;
+    margin-top: 400px;
+    
+}
+
 .texto {
     display: table-cell;
     float: right;
