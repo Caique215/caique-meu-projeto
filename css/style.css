@@ -141,6 +141,8 @@ nav#menu li {
     padding: 10px;
     margin: 10px;
     transition: background-color 1s ;
+    border: 5px solid #75eaff;
+    box-shadow: 2px 2px 2px 2px rgb(12, 8, 8);
 }
 nav#menu li:hover{
     background-color: #75eaff;
