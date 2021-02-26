@@ -78,6 +78,7 @@ header#cabecalho p {
 .texto1 {
     display: table-cell;
     float: left;
+    left: 2px;
     height: 100px;
     width: 250px;
     margin-top:-190px;
