@@ -10,8 +10,8 @@ body {
 
 
 #img_redonda {
-    width: 200px;
-    height: 250px;
+    width: 170px;
+    height: 210px;
     border-radius: 20%;
     position:absolute;
     left: 290px;
@@ -122,7 +122,7 @@ header#cabecalho p {
     display: table-cell;
     float: right;
     width: 270px;
-    margin-top: -390px;
+    margin-top: -340px;
   
 }
 nav#menu {
