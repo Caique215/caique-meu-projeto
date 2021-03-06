@@ -14,7 +14,7 @@ body {
     height: 210px;
     border-radius: 20%;
     position:absolute;
-    left: 290px;
+    left: 300px;
     position: relative;
     border: 4px solid #faf8f8;
     box-shadow: 1px 1px 2px 1px rgb(255, 241, 241);
@@ -168,16 +168,87 @@ nav#menu  a{
 
 div#interface {
     width: 900px;
-    height: 2000px;
+    height: 1990px;
     background-color: Blue;
     margin: -20px auto 0px auto;
     box-shadow: 1px 0px 10px rgb(0,0,0,.5);
     padding: 10px 10px 10px 10px;
 }
 
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-slide{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw ;
+    height: 40vh;
+    background-color:;
+    margin: 20vh auto;
+    border-radius: 10px;
+    box-shadow: 5px 20px 30px#17A6FF;
+    border: 5px solid #0150F0;
+}
+
+.container-items {
+    position: center;
+    display: flex;
+    width: 30vw;
+    height: 40vh;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.item {
+    width: 30vw;
+    height: 40vh;
+    transition: all 1s;
+}
+.item:first-child{
+    margin-left: -100%;
+}
+
+.item img {
+    width: 30vw;
+    height: 40vh;
+    border-radius: 10px;
+}
+
+.action-button{
+    font: bold 30px sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    color: #00000000;
+    user-select: none;
+    z-index: 1;
+}
+.action-button:hover {
+    color: white;
+    background-color:  #0B32D9;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+
+
+.container-slide {
+    position: relative;
+    top: -400pt;
+     
+}
+
+
+
+
 #rodape {
 	position: relative;
-	bottom: -650px;
+	bottom: -710px;
        }
 
 footer#rodape {
