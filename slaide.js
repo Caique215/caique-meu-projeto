@@ -1,11 +1,11 @@
 'use strict';
 
 const images = [
-    { 'id': '1', 'url':'caiqueeNN.jpg.jpg' },
-    { 'id': '2', 'url': 'caique.png'},
-    { 'id': '3', 'url': 'caiqueg.jpg'},
-    { 'id': '2', 'url': 'caiqueggg.jpg'},
-    { 'id': '2', 'url': 'caiquegg.jpg'},
+    { 'id': '1', 'url': 'caique.png  '},
+    { 'id': '2', 'url': 'caiqueg.jpg'},
+    { 'id': '3', 'url': 'caiqueggg'},
+    { 'id': '4', 'url': 'caiquegg.jpg'},
+   
   
 ]
 
