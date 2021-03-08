@@ -201,6 +201,11 @@ div#interface {
     overflow: hidden;
 }
 
+.item {
+    width: 30vw;
+    height: 40vh;
+    transition: all 1s;
+}
 
 
 
