@@ -211,6 +211,12 @@ div#interface {
     margin-left: -100%;
 }
 
+.item img {
+    width: 30vw;
+    height: 40vh;
+    border-radius: 10px;
+}
+
 
 #rodape {
 	position: relative;
