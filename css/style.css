@@ -192,6 +192,14 @@ div#interface {
     border: 5px solid #0150F0;
 }
 
+.container-items {
+    position: center;
+    display: flex;
+    width: 30vw;
+    height: 40vh;
+    border-radius: 10px;
+    overflow: hidden;
+}
 
 
 
