@@ -227,6 +227,15 @@ div#interface {
     user-select: none;
     z-index: 1;
 }
+
+.action-button:hover {
+    color: white;
+    background-color:  #0B32D9;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 1s;
+  
+}
 #rodape {
 	position: relative;
 	bottom: -910px;
