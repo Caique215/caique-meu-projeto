@@ -180,6 +180,18 @@ div#interface {
     padding: 0;
 }
 
+.container-slide{
+    display: flex;
+    justify-content: space-between;
+    width: 40vw ;
+    height: 40vh;
+    background-color:;
+    margin: 20vh auto;
+    border-radius: 10px;
+    box-shadow: 5px 20px 30px#17A6FF;
+    border: 5px solid #0150F0;
+}
+
 
 
 
