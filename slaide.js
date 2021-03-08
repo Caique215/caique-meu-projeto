@@ -21,7 +21,7 @@ const loadImages = ( images, container ) => {
     })
 }
 
-loadImages( images, containerItems );
+//loadImages( images, containerItems );
 
 let items = document.querySelectorAll('.item');
 
