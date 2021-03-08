@@ -207,6 +207,9 @@ div#interface {
     transition: all 1s;
 }
 
+.item:first-child{
+    margin-left: -100%;
+}
 
 
 #rodape {
