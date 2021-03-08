@@ -236,6 +236,13 @@ div#interface {
     transition: all 1s;
   
 }
+
+.container-slide {
+   
+    position: relative;
+    top: 1pt;
+}
+
 #rodape {
 	position: relative;
 	bottom: -910px;
