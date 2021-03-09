@@ -197,14 +197,14 @@ div#interface {
     position: center;
     display: flex;
     width: 40vw;
-    height: 50vh;
+    height: 40vh;
     border-radius: 10px;
     overflow: hidden;
 }
 
 .item {
     width: 40vw;
-    height: 50vh;
+    height: 40vh;
     transition: all 1s;
 }
 
