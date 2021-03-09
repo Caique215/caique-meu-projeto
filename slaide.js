@@ -3,7 +3,7 @@
 const images = [
     { 'id': '1', 'url': 'caique.png'},
     { 'id': '2', 'url': 'caiqueg.jpg'},
-    { 'id': '3', 'url': 'caiqueggg.jpg'},
+    { 'id': '3', 'url': 'caiqueggg.jpg.png'},
     { 'id': '4', 'url': 'caiquegg.jpg'},
     { 'id': '5', 'url': 'caiqueeNN.jpg.jpg'},
    
