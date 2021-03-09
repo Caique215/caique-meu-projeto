@@ -183,7 +183,7 @@ div#interface {
 .container-slide{
     display: flex;
     justify-content: space-between;
-    width: 40vw ;
+    width: 80vw ;
     height: 40vh;
     background-color:;
     margin: 20vh auto;
@@ -195,15 +195,15 @@ div#interface {
 .container-items {
     position: center;
     display: flex;
-    width: 30vw;
-    height: 40vh;
+    width: 40vw;
+    height: 50vh;
     border-radius: 10px;
     overflow: hidden;
 }
 
 .item {
-    width: 30vw;
-    height: 40vh;
+    width: 40vw;
+    height: 50vh;
     transition: all 1s;
 }
 
@@ -239,8 +239,9 @@ div#interface {
 
 .container-slide {
    
-    position: relative;
+    position: center;
     top: -400pt;
+    
 }
 
 #rodape {
