@@ -223,7 +223,7 @@ div#interface {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 200px;
+    width: 180px;
     color: #00000000;
     user-select: none;
     z-index: 1;
