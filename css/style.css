@@ -183,7 +183,7 @@ div#interface {
 .container-slide{
     display: flex;
     justify-content: space-between;
-    width: 50vw ;
+    width: 60vw ;
     height: 40vh;
     background-color:;
     margin: 20vh auto;
@@ -197,7 +197,7 @@ div#interface {
     position: center;
     display: flex;
     width: 40vw;
-    height: 40vh;
+    height: 50vh;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -213,8 +213,8 @@ div#interface {
 }
 
 .item img {
-    width: 30vw;
-    height: 40vh;
+    width: 40vw;
+    height: 50vh;
     border-radius: 10px;
 }
 
