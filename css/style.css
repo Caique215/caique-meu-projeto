@@ -183,7 +183,7 @@ div#interface {
 .container-slide{
     display: flex;
     justify-content: space-between;
-    width: 60vw ;
+    width: 80vw ;
     height: 40vh;
     background-color:;
     margin: 20vh auto;
@@ -204,7 +204,7 @@ div#interface {
 
 .item {
     width: 40vw;
-    height: 40vh;
+    height: 50vh;
     transition: all 1s;
 }
 
@@ -214,7 +214,7 @@ div#interface {
 
 .item img {
     width: 40vw;
-    height: 50vh;
+    height: 40vh;
     border-radius: 10px;
 }
 
